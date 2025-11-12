@@ -1,0 +1,6 @@
+@BackgroundService_HostAddress = http://localhost:5256
+
+GET {{BackgroundService_HostAddress}}/startCounter/
+Accept: application/json
+
+###
